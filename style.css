@@ -935,6 +935,12 @@ html, body {
 
 
 /* eccomerce carousel */
+#eccomerce-site-carousal-h2{
+    text-align: center;
+    font-size: 6vw;
+    margin-top: 6vh;
+}
+
 
 .slider1{
     width: 100%;
